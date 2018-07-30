@@ -1,0 +1,3 @@
+use bamazon;
+
+INSERT INTO `products` VALUES (1,'Seedless Watermelon','Produce',2.29,22),(2,'5 lb. Bag of Sugar','Spices',2.38,694),(3,'20 lb Bag of Jasmine Rice','Asian foods',15.92,30),(4,'cumin 1.5oz','Spices',2.98,27),(5,'Frozen Peas','Frozen Goods',6.90,300),(6,'Frozen pizza','Frozen Goods',1.50,189),(7,'Black Beans','Canned Goods',2.99,457),(8,'Cayenne Pepper','Spices',6.78,47),(9,'Angel-Hair Pasta','Pasta',3.99,345),(10,'2 lb. Bag of apples','Produce',2.54,103);
